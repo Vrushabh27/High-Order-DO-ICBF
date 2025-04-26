@@ -22,10 +22,12 @@ In this paper, we consider the problem of safe control synthesis of general cont
 If you find the code useful, kindly cite the associated publication
 
 ```
-@inproceedings{zinage2023disturbance,
-  title={Disturbance Observer-based Robust Integral Control Barrier Functions for Nonlinear Systems with High Relative Degree},
+@inproceedings{zinage2024disturbance,
+  title={Disturbance observer-based robust integral control barrier functions for nonlinear systems with high relative degree},
   author={Zinage, Vrushabh and Chandra, Rohan and Bakolas, Efstathios},
-  journal={arXiv preprint arXiv:2309.16945},
-  year={2023}
+  booktitle={2024 American Control Conference (ACC)},
+  pages={2470--2475},
+  year={2024},
+  organization={IEEE}
 }
 ```
